@@ -1,4 +1,4 @@
-import './main.css';
+import './App.css';
 import ShopItemClass from './components/ShopItemClass';
 
 function App() {
